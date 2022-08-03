@@ -1,10 +1,10 @@
 "use strict";
-// Resposta 1
+// Resposta 01
 const funcionario = {
     codigo: 10,
     nome: 'João'
 };
-// Resposta 2
+// Resposta 02
 const funcionario2 = {
     codigo: 10,
     nome: 'joao'
