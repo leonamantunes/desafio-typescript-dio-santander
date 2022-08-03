@@ -1,5 +1,5 @@
 
-# Desafio de projeto Typescript DIO
+# Desafios de projeto de Introdução ao Typescript DIO
 
-Desafio de projeto da plataforma DIO.
+Desafios propostos nas aulas de pratica ao Typescript.
 
